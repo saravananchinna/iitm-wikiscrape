@@ -3,7 +3,6 @@ import urllib.parse
 import json
 import httpx
 from bs4 import BeautifulSoup
-import markdown2
 
 class handler(BaseHTTPRequestHandler):
 
